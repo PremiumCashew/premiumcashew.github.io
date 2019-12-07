@@ -1,3 +1,3 @@
-[<< back](../index.md)
+[<< home](../index.md)
 
 # Game In 10 Days
