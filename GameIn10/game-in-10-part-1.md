@@ -1,4 +1,5 @@
 [<< home](../index.md)
+
 [<< game in 10 days index](./game-in-10.md)
 
 07-12-2019
