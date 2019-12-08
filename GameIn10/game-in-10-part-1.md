@@ -16,28 +16,43 @@ What is a good game idea?
 How to come up with a game?
 Produce quantity.
 
-|   Start with something familiar | Turn your game idea into something new and original  | Break the norms  |
-|---|---|---|
-|  Shooter |   |   |
-|  Prop Hunt |   |   |
-| Dark souls  |   |   |
-| Ja Box  |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
 
-Tivia 
-pokemon go
-league
-deck building
-mmorpg
-tower defense
-survival
-zombies
-social games vclub penguin
-turn based battle on
+
+Firstly, I identify games I enjoyed playing throughout my life to get some inspiration: 
+- Deck building
+  - Hearthstone
+- Shooter
+  - Halo
+  - Call of Duty
+- Strategy / Battle Arena
+  - Age of Empires
+  - League of Legends
+- MMORPG
+  - Flyff
+  - Runescape
+  - Mu Online
+  - Pokemon Go
+- Puzzle Platformers
+  - Portal
+- Turn based battle
+  - Adventure Quest
+
+
+|   Start with something familiar | Turn your game idea into something new and original   | Break the norms   |
+|               ---               |                         ---                           |       ---         |
+| Deck building                   | Warriors from the ages  | Enemy builds your deck for you  |
+| Shooter                         | Props hunt you  | Defending team: different players control different parts of the body  |
+| Strategy / Battle Arena         |   |   |
+| MMORPG                          | Earth geography - build your virtual world  |   |
+| Puzzle Platformers              |   |   |
+| Turn based battle               |   |  |
+
+
+General categories of games I like playing:
+
+
+
+
 
 1. Start with something familiar
 - A tower defence game
