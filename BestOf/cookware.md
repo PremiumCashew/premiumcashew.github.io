@@ -42,10 +42,7 @@ I personally went for All-Clad D5 since I am not a fan of Nonstick cookware and 
 
 ### Source:
 
-| Rank                                                          | [Cnet](https://www.cnet.com/news/8-best-cookware-sets-of-2020/) | [Consumer Reports](https://www.consumerreports.org/cookware/best-cookware-sets-of-the-year/) | 
-[Good house keeping](https://www.goodhousekeeping.com/cooking-tools/cookware-reviews/g799/best-picks-nonstick-cookware/) | [Reviewed](https://www.reviewed.com/cooking/best-right-now/the-best-cookware-sets) | 
-[Wirecutter](https://thewirecutter.com/reviews/best-cookware-set/) | [Family Living Today](https://familylivingtoday.com/best-cookware/) | [The Spruce Eats](https://www.thespruceeats.com/best-cookware-sets-4077248) | 
-[Essential Home and Garden](https://www.essentialhomeandgarden.com/best-cookware-sets/) | Total |
+| Rank                                                          | [Cnet](https://www.cnet.com/news/8-best-cookware-sets-of-2020/) | [Consumer Reports](https://www.consumerreports.org/cookware/best-cookware-sets-of-the-year/) | [Good house keeping](https://www.goodhousekeeping.com/cooking-tools/cookware-reviews/g799/best-picks-nonstick-cookware/) | [Reviewed](https://www.reviewed.com/cooking/best-right-now/the-best-cookware-sets) | [Wirecutter](https://thewirecutter.com/reviews/best-cookware-set/) | [Family Living Today](https://familylivingtoday.com/best-cookware/) | [The Spruce Eats](https://www.thespruceeats.com/best-cookware-sets-4077248) | [Essential Home and Garden](https://www.essentialhomeandgarden.com/best-cookware-sets/) | Total |
 |---------------------------------------------------------------|------|------------------|--------------------|----------|------------|---------------------|-----------------|---------------------------|-------|
 | All-Clad D3/D5                                                | x    | x                |                    | x        | x          | x                   | x               | x                         | 7   |
 | T-fal Titanium Nonstick                                       | x    |                  | x                  | x        |            | x                   |                 | x                         | 5   |
