@@ -35,7 +35,7 @@ Calphalon Tri-Ply Copper
 
 <br>
 
-I personally went for All-Clad D5 since I am not a fan of Nonstick cookware and the copper cookware doesn't fit well with my decor.
+I personally went for All-Clad D5 since I am not a fan of nonstick cookware and the copper cookware doesn't fit well with my decor.
 
 <br>
 <br>
