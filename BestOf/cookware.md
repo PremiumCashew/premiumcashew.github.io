@@ -2,7 +2,7 @@
 
 # Cookware
 
-Do I know anything about ccokware? No! I can barely cook curry.
+Do I know anything about cookware? No! I can barely cook curry.
 
 But what I do know is [Wisdom of the crowds](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd) works. After looking up reviews of top cookware sets across various websites, I aggregated them to make my decision.
 
